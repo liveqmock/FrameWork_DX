@@ -1,0 +1,12 @@
+#
+# robots.txt for Discuz! X2
+#
+
+User-agent: *
+Disallow: /data/
+Disallow: /source/
+Disallow: /template/
+Disallow: /config/
+Disallow: /static/
+Disallow: /admin.php
+Disallow: /index.php
